@@ -21,7 +21,7 @@ This project was part of the JavaScript Objects module, and is intended to allow
 
 ## Where can I view the code?
 
-**[You can see my code solution here.]()**
+**[You can see my code solution here.](https://github.com/david-heasman00/javascript-meal-maker/blob/main/app.js)**
 
 ## How can I speak to you?
 
